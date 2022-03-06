@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - ground
   - 
   - 
   - 
@@ -40,4 +40,37 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ceu
+    uniqueID: 3116246859
+    locked: 0
+  - name: piso
+    uniqueID: 1812974917
+    locked: 0
+  - name: player
+    uniqueID: 656918901
+    locked: 0
+  - name: plataforma1
+    uniqueID: 1302213023
+    locked: 0
+  - name: plataforma2
+    uniqueID: 605858397
+    locked: 0
+  - name: plataforma3
+    uniqueID: 3499981265
+    locked: 0
+  - name: plataforma4
+    uniqueID: 3864226745
+    locked: 0
+  - name: plataforma5
+    uniqueID: 2723055255
+    locked: 0
+  - name: plataforma6
+    uniqueID: 3557610413
+    locked: 0
+  - name: pade invisivel1
+    uniqueID: 727086849
+    locked: 0
+  - name: pade invisivel2
+    uniqueID: 4070710985
     locked: 0
