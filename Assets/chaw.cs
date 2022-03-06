@@ -33,12 +33,12 @@ public class chaw : MonoBehaviour
 
         if (inputAxis > 0)
         {
-            transform.eulerAngles = new Vector2(0f, 180f);
+            transform.eulerAngles = new Vector2(0f, 0f);
         }
 
         if (inputAxis < 0)
         {
-            transform.eulerAngles = new Vector2(0f, 0f);
+            transform.eulerAngles = new Vector2(0f, 180f);
         }
     }
 
